@@ -1,0 +1,4 @@
+interface:
+  display_name: "数字人口播视频"
+  short_description: "用个人数字分身和本人声音制作连续口播视频并完成字幕质检"
+  default_prompt: "使用 $digital-avatar-video 制作数字人口播视频，复用本人声线，保持单次连续生成，并完成字幕与音画同步质检。"
